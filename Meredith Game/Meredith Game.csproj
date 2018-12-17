@@ -70,7 +70,6 @@
   <ItemGroup>
     <Content Include="Assets\data.json" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
-    <Content Include="egg.png" />
     <Content Include="index.html" />
     <Content Include="Scripts\game.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
