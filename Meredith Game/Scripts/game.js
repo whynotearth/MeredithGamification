@@ -4,4 +4,6 @@
     loop: true,
     autoplay: true,
     path: 'Assets/data.json'
-});
+})
+
+animation.setSpeed(4)

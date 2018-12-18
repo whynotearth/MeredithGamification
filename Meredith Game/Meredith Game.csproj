@@ -76,6 +76,8 @@
     <Content Include="Scripts\jquery-3.3.1.min.js" />
     <Content Include="Scripts\jquery-3.3.1.slim.js" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
+    <Content Include="Scripts\lottie.js" />
+    <Content Include="style\indexStyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
